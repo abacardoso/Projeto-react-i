@@ -24,3 +24,5 @@ const series = [
         imagem: "https://rollingstone.uol.com.br/media/_versions/friends_nova_foto_divulgacao_reproducao_widelg.jpg"
     },
 ]
+
+export default series
